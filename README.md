@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-   <a href="[https://www.linkedin.com/in/romankh3/](https://www.linkedin.com/in/anastasiia-radaeva-4b78b4236/)">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://www.linkedin.com/in/anastasiia-radaeva-4b78b4236/">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:radaeva.anastasiia@gmail.com'>radaeva.anastasiia@gmail.com</a>
