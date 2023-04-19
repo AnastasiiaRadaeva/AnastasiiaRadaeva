@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzZTBmZTVjYzQ0Y2E3NmFjNjQ2NTM4ZTdmOWU2ZjA1MmNhNGJjMyZjdD1z/lrVuooYgsbMmCt7IPG/giphy.gif" width="100"/>
+</div>
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/anastasiia-radaeva-4b78b4236/">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
