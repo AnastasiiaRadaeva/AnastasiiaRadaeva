@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AnastasiiaRadaeva/AnastasiiaRadaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there <!--👋 -->
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzZTBmZTVjYzQ0Y2E3NmFjNjQ2NTM4ZTdmOWU2ZjA1MmNhNGJjMyZjdD1z/lrVuooYgsbMmCt7IPG/giphy.gif" width="100"/>
