@@ -23,6 +23,11 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/anastasiia-radaeva-4b78b4236/">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+  
+<!--  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiiaRadaeva&theme=default) -->
 <p align='center'>
    📫 How to reach me: <a href='mailto:radaeva.anastasiia@gmail.com'>radaeva.anastasiia@gmail.com</a>
 </p>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnastasiiaRadaeva&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnastasiiaRadaeva&theme=tokyonight&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats) -->
